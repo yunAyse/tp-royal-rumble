@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e5df712.css",
+    "main.js": "/static/js/main.01b8ed4a.js",
+    "static/media/background_pixel.png": "/static/media/background_pixel.752a584475cd72e5341d.png",
+    "static/media/dragon.png": "/static/media/dragon.b63504717a027a1eacf3.png",
+    "static/media/samurai4.png": "/static/media/samurai4.5ab75d5cc33975a3d7e4.png",
+    "static/media/samurai3.png": "/static/media/samurai3.aacdc3a5bf87ff2c1bfb.png",
+    "static/media/samurai2.png": "/static/media/samurai2.a833ca5bbd318aed8dd2.png",
+    "static/media/samurai1.png": "/static/media/samurai1.5c5e92630daeca7ff553.png",
+    "index.html": "/index.html",
+    "main.6e5df712.css.map": "/static/css/main.6e5df712.css.map",
+    "main.01b8ed4a.js.map": "/static/js/main.01b8ed4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5df712.css",
+    "static/js/main.01b8ed4a.js"
+  ]
+}
